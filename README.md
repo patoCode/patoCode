@@ -18,12 +18,16 @@
 [![FRONTEND](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&style=for-the-badge&logo=Bootstrap&logoColor=white)]()
 [![FRONTEND](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript&logoColor=white)]()
 [![FRONTEND](https://img.shields.io/static/v1?label=&message=jQuery&color=0769AD&style=for-the-badge&logo=jQuery&logoColor=white)]()
+[![FRONTEND](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&style=for-the-badge&logo=Vue.js&logoColor=white)]()
 [![FRONTEND](https://img.shields.io/static/v1?label=&message=Handlebars.js&color=FF2F1C&style=for-the-badge&logo=Handlebars.js&logoColor=white)]()
 [![FRONTEND](https://img.shields.io/static/v1?label=&message=FontAwesome&color=528DD7&style=for-the-badge&logo=FontAwesome&logoColor=white)]()
 [![FRONTEND](https://img.shields.io/static/v1?label=&message=CoffeeScript&color=2F2625&style=for-the-badge&logo=CoffeeScript&logoColor=white)]()
 
 [![FRAMEWORK](https://img.shields.io/static/v1?label=&message=CodeIgniter&color=EF4223&style=for-the-badge&logo=CodeIgniter&logoColor=white)]()
 [![FRAMEWORK](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&style=for-the-badge&logo=Laravel&logoColor=white)]()
+[![FRAMEWORK](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&style=for-the-badge&logo=Spring&logoColor=white)]()
+[![FRAMEWORK](https://img.shields.io/static/v1?label=&message=Symfony&color=000000&style=for-the-badge&logo=Symfony&logoColor=white)]()
+[![FRAMEWORK](https://img.shields.io/static/v1?label=&message=Hibernate&color=59666C&style=for-the-badge&logo=Hibernate&logoColor=white)]()
 
 [![MOBILE](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&style=for-the-badge&logo=Android&logoColor=white)]()
 [![MOBILE](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&style=for-the-badge&logo=Flutter&logoColor=white)]()
