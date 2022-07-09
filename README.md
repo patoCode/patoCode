@@ -55,4 +55,4 @@
 <br>
 [![LinkedInd](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/denis-rodriguez-mendoza-96407665/)
 <br>
-[![WHATSSAPP](https://img.shields.io/static/v1?label=&message=+591-72762638&color=25D366&style=for-the-badge&logo=WhatsApp&logoColor=white)](https://www.linkedin.com/in/denis-rodriguez-mendoza-96407665/)
+[![WHATSSAPP](https://img.shields.io/static/v1?label=&message=+591-72762638&color=25D366&style=for-the-badge&logo=WhatsApp&logoColor=white)]()
